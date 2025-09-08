@@ -1,0 +1,8 @@
+Info: Processing symbol 'A1:Module:RaspberryPi_Pico_Common_Unspecified'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Total warnings: 0, errors: 0.
+
+
+
+
+Info: Total warnings: 0, errors: 0.
